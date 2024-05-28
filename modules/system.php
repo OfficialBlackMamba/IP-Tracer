@@ -13,3 +13,5 @@ if (file_exists("/usr/bin/apt")) {
   $system="termux";
 }
 ?>
+
+# BLACKMAMBA
